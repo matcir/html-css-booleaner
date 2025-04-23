@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.blue_back{
+    background-color: rgba(78,160,255);
+    
+}
+
+.lightblue_back{
+    background-color: rgba(177,229,242,255);
+}
+
+.pattern{
+    width: 100%;
+    height: 150px;
+}
